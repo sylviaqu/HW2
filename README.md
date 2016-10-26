@@ -8,7 +8,7 @@ version 1.1(sos)
 step 1:
 open the application on an android phone.
 step 2:
-type messages and press 'send' button.
+type messages and press 'GO' button.
 step 3:
 it shows the message on a new layout on the screen.
 ![Alt text](https://github.com/sylviaqu/HW2/blob/master/screenshot1.png "screenshot1")
