@@ -11,4 +11,5 @@ step 2:
 type messages and press 'send' button.
 step 3:
 it shows the message on a new layout on the screen.
-![Alt text](https://github.com/sylviaqu/HW2/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-02%2022.06.30.png "screenshot1")
+![Alt text](https://github.com/sylviaqu/HW2/blob/master/screenshot1.png "screenshot1")
+![Alt text](https://github.com/sylviaqu/HW2/blob/master/screenshot2.png "screenshot2")
